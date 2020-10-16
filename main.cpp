@@ -40,4 +40,4 @@ int main(){
 getRandnum(n1, n2, n3);
 int min = findMin(n1, n2, n3);
 printResult(n1, n2, n3, min);
-}
+} 
